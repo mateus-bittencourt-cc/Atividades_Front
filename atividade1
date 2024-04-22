@@ -1,0 +1,20 @@
+//Atividade_1
+let valor1 = 15;
+let valor2 = 48;
+let resultado = valor1 + valor2;
+console.log(`Valor da soma de ${valor1} + ${valor2} é igual a ${resultado}.\n`);
+
+valor1 = 28;
+valor2 = 25;
+resultado = valor1 - valor2;
+console.log(`Valor da subtração de ${valor1} - ${valor2} é igual a ${resultado}.\n`);
+
+valor1 = 60;
+valor2 = 12;
+resultado = valor1 * valor2;
+console.log(`Valor da multiplicação de ${valor1} * ${valor2} é igual a ${resultado}.\n`);
+
+valor1 = 24;
+valor2 = 6;
+resultado = valor1 / valor2;
+console.log(`Valor da divisão de ${valor1} / ${valor2} é igual a ${resultado}.`);
